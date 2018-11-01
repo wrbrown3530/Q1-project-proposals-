@@ -1,0 +1,36 @@
+Q1 project proposal
+
+
+Provide a brief description about your project that answers the following questions:
+
+For my project I want to make a website called Real Fake Buttons, where all the buttons are fake but not really. 
+
+ -What problem or need does your project solve?
+
+Every one knows that the internet is full of real buttons, and they do all sorts of cool things. But what If I want to go to a website and click a bunch of buttons that don’t do anything? Well now you’re in luck with real fake buttons. 
+
+-Who would be a user of your website?
+
+People looking for a laugh. 
+
+-What technologies will you be using?
+
+I’ll use HTML and CSS and Bootstrap to style the website. Some of the “fake” buttons will actually have event listeners attached and will do things such as display an alert saying things like “That’s not a real button” I plan to use the .random  function to make some of the fake buttons randomly generate in designated spaces on the website. I’ll use an email input where the user can input their email to receive updates on real fake buttons. The verified email address they enter will be stored in local storage.
+
+
+Second project proposal: 
+
+Provide a brief description about your project that answers the following questions:
+
+For my project I'd like to make an app that allows the user to select a name of a Star Wars character from a list or possibly type their name into a search bar, upon hitting enter the user is told what planet that character is from. 
+
+-Who would be a user of your website?
+
+ Brian
+
+-What technologies will you be using?
+
+I'd use the Star Wars API to get information about various characters. I would also use an event listener on the search bar to listen for clicks which would execute a function to get information from the API. I'll use local storage to store the user's search history if  I can figure that out, or email address. 
+
+
+
