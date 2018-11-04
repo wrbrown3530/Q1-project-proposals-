@@ -1,5 +1,5 @@
 
-App Name- This Is the Planet You're Looking For. 
+App Name- This Is the Planet You're Looking For.
 
 color sheet https://coolors.co/000000-808080-d3d3d3-ffd700-ffffff
 
@@ -8,3 +8,5 @@ Font https://www.cssfontstack.com/Arial
 
 
 Wireframe https://wireframe.cc/JlSMRx
+
+Stories https://trello.com/b/RGx0zLKc/wills-q1-project-planner
